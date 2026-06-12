@@ -23,7 +23,7 @@
 <!-- OPTIONAL: edit the lines after "lines=" (separate with semicolons) -->
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Developer;Open+Source+Enthusiast;Lifelong+Learner;Building+things+that+matter" alt="Typing SVG" />
   </a>
 </p>
@@ -31,9 +31,9 @@
 <!-- ╔═════════════════════════ PROFILE BADGES ═════════════════════════╗ -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=https://github.com/unity4855-commits/unity4855-commits/tree/main&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile Views" />
   &nbsp;
-  <a href="https://github.com/YOUR_USERNAME?tab=followers">
+  <a href="https://github.com/unity?tab=followers">
     <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat-square&color=58A6FF&logo=github" alt="Followers" />
   </a>
   &nbsp;
